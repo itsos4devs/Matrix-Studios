@@ -6,8 +6,24 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
-  }
+    "next": "^12.1.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-grid-system": "^8.1.5"
+  },
+  "name": "matrix-studios",
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsos4devs/Matrix-Studios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsos4devs/Matrix-Studios/issues"
+  },
+  "homepage": "https://github.com/itsos4devs/Matrix-Studios#readme"
 }
